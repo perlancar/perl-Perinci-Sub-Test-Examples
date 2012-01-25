@@ -91,4 +91,11 @@ __END__
 
 None are exported, but they are exportable.
 
+
+=head1 SEE ALSO
+
+L<Test::Synopsis>
+
+Python's doctest, http://en.wikipedia.org/wiki/Doctest
+
 =cut
